@@ -4955,6 +4955,9 @@ blockquote p {
     font-size: 1rem; }
   .hero__link {
     color: inherit; }
+  .hero__address {
+    display: inline-block;
+    font-style: normal; }
 
 /*!
  *  Font Awesome 4.6.2 by @davegandy - http://fontawesome.io - @fontawesome
